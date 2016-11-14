@@ -6,4 +6,5 @@
    * faq
    * internal
    * get start
+   * performance
 
