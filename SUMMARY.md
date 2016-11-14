@@ -4,4 +4,5 @@
    * llvm docs
    * llvm command
    * faq
+   * internal
 
