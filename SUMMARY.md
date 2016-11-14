@@ -3,4 +3,5 @@
 * summary
    * llvm docs
    * llvm command
+   * faq
 
