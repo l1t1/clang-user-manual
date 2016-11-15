@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* summary
+* [summary](SUMMARY.md)
    * [llvm docs](llvm-docs.md)
    * [llvm command](llvm-command-guide.md)
    * [常见问题解答](FAQ.md)
