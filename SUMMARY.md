@@ -8,5 +8,5 @@
    * [internal](InternalsManual.md)
    * [get start](get_started.md)
    * [performance](PerformanceTips.md)
-   * calng
+   * clang doc
 
