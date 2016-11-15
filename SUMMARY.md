@@ -11,5 +11,5 @@
    * [Clang 编译器用户手册](clang-user-manual.md)
    * [LLVM 词典](llvm-lexicon.md)
    * [打包 LLVM 的建议](Advice_on_Packaging_LLVM.md)
-   * LLVM语言参考手册
+   * [LLVM语言参考手册](LLVM-Language-Reference-Manual.md)
 
