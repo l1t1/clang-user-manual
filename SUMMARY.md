@@ -5,7 +5,7 @@
    * [llvm docs](llvm-docs.md)
    * [llvm command](llvm-command-guide.md)
    * [faq](FAQ.md)
-   * [internal](InternalIsManual.md)
+   * [内部设计](InternalIsManual.md)
    * [入门：编译和运行 Clang](get_started.md)
    * [performance](PerformanceTips.md)
    * [Clang 编译器用户手册](clang-user-manual.md)
