@@ -7,5 +7,5 @@
    * [faq](FAQ.md)
    * [internal](InternalsManual.md)
    * [get start](get_started.md)
-   * performance
+   * [performance](PerformanceTips.md)
 
