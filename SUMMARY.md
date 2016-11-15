@@ -6,7 +6,7 @@
    * [llvm command](llvm-command-guide.md)
    * [faq](FAQ.md)
    * [internal](InternalsManual.md)
-   * [get start](get_started.md)
+   * [入门：编译和运行 Clang](get_started.md)
    * [performance](PerformanceTips.md)
    * [Clang 编译器用户手册](clang-user-manual.md)
    * [LLVM 词典](llvm-lexicon.md)
