@@ -1,7 +1,8 @@
 # Summary
 
+* [Introduction](README.md)
 * summary
-   * llvm docs
+   * [llvm docs](llvm_docs.md)
    * llvm command
    * faq
    * internal
