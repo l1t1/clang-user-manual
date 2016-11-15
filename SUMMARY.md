@@ -9,4 +9,5 @@
    * [get start](get_started.md)
    * [performance](PerformanceTips.md)
    * [clang doc](clang-user-manual.md)
+   * lexicon
 
