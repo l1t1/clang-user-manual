@@ -164,7 +164,7 @@ Replace All Uses With. The functions User::replaceUsesOfWith(), Value::replaceAl
 __Reassociation__
 
 Rearranging associative expressions to promote better redundancy elimination and other optimization. For example, changing (A+B-A) into (B+A-A), permitting it to be optimized into (B+0) then (B).
-
+重组关联表达式以提高冗余消除和其他优化的效果。例如，把 (A+B-A)改为(B+A-A)，以允许它被优化为(B+0)，进而为(B)。
 __Root__
 
 在垃圾回收中，堆中的一个指针变量，垃圾回收器从这个指针开始可达性分析。在代码生成的上下文中，“root”几乎总是指向“stack root”-一个函数调用过程中的局部或临时变量。
