@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [summary](SUMMARY.md)
-   * [llvm docs](llvm-docs.md)
+   * [概览](llvm-docs.md)
    * [LLVM命令指南](llvm-command-guide.md)
    * [常见问题解答](FAQ.md)
    * [Clang内部设计](InternalIsManual.md)
