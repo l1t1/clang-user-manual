@@ -10,4 +10,5 @@
    * [performance](PerformanceTips.md)
    * [clang doc](clang-user-manual.md)
    * [lexicon](llvm-lexicon.md)
+   * 打包 LLVM 的建议
 
