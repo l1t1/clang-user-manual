@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * summary
    * [llvm docs](llvm_docs.md)
-   * llvm command
+   * [llvm command](llvm-command-guide.md)
    * faq
    * internal
    * get start
