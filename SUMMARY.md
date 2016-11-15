@@ -5,7 +5,7 @@
    * [llvm docs](llvm_docs.md)
    * [llvm command](llvm-command-guide.md)
    * [faq](FAQ.md)
-   * internal
+   * [internal](InternalsManual.md)
    * get start
    * performance
 
