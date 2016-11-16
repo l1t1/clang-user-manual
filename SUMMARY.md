@@ -1,4 +1,4 @@
-# Summary
+# Summary of new book
 
 * [Introduction](README.md)
 * [summary](SUMMARY.md)
